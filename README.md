@@ -18,6 +18,14 @@ I make elegantly professional **🌐 Websites, 📱 Mobile apps and 💻 Python 
 * 🎉   Professional Membership of CSI.
 * 👩‍💻   Ethical Hacker. 🎮 & Pubg Lover.🤪
 
+<p align="center">
+<a><img src="https://github.com/siddharthdeo99/siddharthdeo99/blob/master/siddharthdeo99/siddharthdeo99/icons/giphy.gif" height="100" width="100"/></a>
+<a><img src="https://github.com/siddharthdeo99/siddharthdeo99/blob/master/siddharthdeo99/siddharthdeo99/icons/cpp.png" height="100" width="100"/></a>
+<a><img src="https://github.com/siddharthdeo99/siddharthdeo99/blob/master/siddharthdeo99/siddharthdeo99/icons/do.gif" height="100" width="100"/></a>
+<a><img src="https://github.com/siddharthdeo99/siddharthdeo99/blob/master/siddharthdeo99/siddharthdeo99/icons/github.gif" height="100" width="100"/>
+<a><img src="https://github.com/siddharthdeo99/siddharthdeo99/blob/master/siddharthdeo99/siddharthdeo99/icons/postgresql.gif" height="100" width="100"/></a>
+</p>
+
 * 👑   Some GitHub statistical reports:
 
 <p align="center">
