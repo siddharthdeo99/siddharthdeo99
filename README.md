@@ -1,6 +1,6 @@
 # Hello there 👋
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+![](https://github.com/siddharthdeo99/siddharthdeo99/blob/master/siddharthdeo99/siddharthdeo99/icons/header_.png)
 
 I make elegantly professional **🌐 Websites, 📱 Mobile apps and 💻 Python development ** for a living and also **Write some blogs**. 🌈    
 
@@ -24,7 +24,7 @@ I make elegantly professional **🌐 Websites, 📱 Mobile apps and 💻 Python 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthdeo99&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=siddharthdeo99&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="halfrost's Github Stats" />
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=siddharthdeo99&column=7" alt="halfrost's Github Trophy" />
-<!-- <img align="center" src="https://github.com/halfrost/halfrost/raw/master/timeline-drop/output/dropped-timeline-halfrost.gif" /> -->
+<img align="center" src="https://github.com/siddharthdeo99/siddharthdeo99/blob/master/siddharthdeo99/siddharthdeo99/icons/Siddharth%20deo.gif" />
 </p>
 
 </details>
