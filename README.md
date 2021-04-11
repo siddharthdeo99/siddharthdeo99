@@ -2,7 +2,7 @@
 
 ![](https://github.com/siddharthdeo99/siddharthdeo99/blob/master/siddharthdeo99/siddharthdeo99/icons/header_.png)
 
-I make elegantly professional **🌐 Websites, 📱 Mobile apps and 💻 Python development ** for a living and also **Write some blogs**. 🌈    
+I make elegantly professional **🌐 Websites, 📱 Mobile apps and 💻 Python development** for a living and also **Write some blogs**. 🌈    
 
 * 🧐   Interested in Ai and ML. Recent focus on OpenCv Projects.
 * 🎓   Bachelor of Computer Application, TOP 5%.
