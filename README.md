@@ -11,9 +11,9 @@ I make elegantly professional **🌐 Websites, 📱 Mobile apps and 💻 Python 
 * 💻   With 2 years' computer science and technology education experience.
 * ⛵   Encouraging people for open source collaborations.
 
-<details>
+<!-- <details>
   <summary>Some other achievements about me~e~e</summary>
-  <br>
+  <br> -->
 
 * 🎉   Professional Membership of CSI.
 * 👩‍💻   Ethical Hacker. 🎮 & Pubg Lover.🤪
