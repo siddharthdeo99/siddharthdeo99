@@ -5,7 +5,7 @@
 I make elegantly professional **🌐 Websites, 📱 Mobile apps and 💻 Python development** for a living and also **Write some blogs**. 🌈    
 
 * 🧐   Interested in Ai and ML. Recent focus on OpenCv Projects.
-* 🎓   Bachelor of Computer Application, TOP 5%.
+* 🎓   Master of Science in Data Science, TOP 5%.
 * 🌱   Currently learning Math & Reasoning.
 * 📚   Reading more about Apple, Harry Potter and how the computer works.
 * 💻   With 2 years' computer science and technology education experience.
